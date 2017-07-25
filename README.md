@@ -2,6 +2,8 @@
 
 ---
 
+![lane detection](lanes.gif)
+
 This was a fun little project from the Udacity Self-Driving car class to detect car lanes.
 
 ---
